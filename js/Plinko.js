@@ -1,7 +1,7 @@
 class Plinko {
     constructor(x, y) {
         var options = {
-            restitution: 1,
+            restitution: 20,
             friction: 0,
             isStatic:true
         }
